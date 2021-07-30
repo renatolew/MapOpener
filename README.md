@@ -3,6 +3,8 @@ A small project to start exercising python script. This is only a small automati
 
 Keep in mind that this is an automation project focused on self use, so you can find instructions below on how to adapt the setting for it to run in your machine. Even tho this tool can run in any OS, it was developed and tested in Windows enviroment, so some adjustments might be needed for Linux or Mac OS.
 
+This project is part of the exercises from the "Automate the Boring Stuff with Python" by Al Sweigart. If you are a beginner looking for learning resources, I strongly recommend this book.
+
 In order to execute this project you will need Python installed in your computer In order to edit or complement the code you will need a text editor or IDE of your choice. I recommend Jetbrains Pycharm. You can find links to install these features below:
 
 Python: https://www.python.org/downloads/

@@ -1,1 +1,1 @@
-C:\Users\Renato\anaconda3\python.exe C:\Users\Renato\Documents\Aulas\Projetos\MapScrap\main.py %*
+C:\ProgramData\Anaconda3\python.exe C:\Users\Renato\Documents\Aulas\Projetos\MapScrap\main.py %*
